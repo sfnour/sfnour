@@ -1,8 +1,8 @@
 ### hello friend!
 
-I'm Nour, a third-year Computer Science student @ Concordia University.
+I'm Nour, a fourth-year Computer Science student @ Concordia University.
 
-I've mostly worked with front-end technologies, but I am also learning full-stack, databases and AI. My interests span from the intersection of ethics & technology to human-computer interactions, with mathematics somewhere in the midde.
+I'm a full-stack developer, but also have a hand at AI development and cybersecurity. My interests span from the intersection of ethics & technology to human-computer interactions, with mathematics somewhere in the midde.
 
 When I am not crying about my code, you can catch me reading or getting a third cup of coffee.
 
